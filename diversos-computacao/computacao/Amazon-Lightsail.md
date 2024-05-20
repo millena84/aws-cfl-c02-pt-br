@@ -98,11 +98,11 @@ Caso o uso dos recursos seja apartado, a escolha de valor (em dólar) x capacida
 
 ## Fontes de consulta
 Algumas perguntas relacionadas foram feitas para o GPT-3.5. e suas respostas usadas de guia para montar o texto juntamente com a consulta aos links abaixo:
--   [https://aws.amazon.com/pt/free/compute/lightsail/](https://aws.amazon.com/pt/free/compute/lightsail/) 
--   [https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-choosing-a-database](https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-choosing-a-database)
--   [https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/buckets-in-amazon-lightsail](https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/buckets-in-amazon-lightsail)
--   [https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/amazon-lightsail-understanding-bucket-permissions](https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/amazon-lightsail-understanding-bucket-permissions)
--   [https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/elastic-block-storage-and-ssd-disks-in-amazon-lightsail](https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/elastic-block-storage-and-ssd-disks-in-amazon-lightsail)
--   [https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/amazon-lightsail-databases](https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/amazon-lightsail-databases)
+- [ ]   [https://aws.amazon.com/pt/free/compute/lightsail/](https://aws.amazon.com/pt/free/compute/lightsail/) 
+- [ ]     [https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-choosing-a-database](https://lightsail.aws.amazon.com/ls/docs/en_us/articles/amazon-lightsail-choosing-a-database)
+- [ ]  [https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/buckets-in-amazon-lightsail](https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/buckets-in-amazon-lightsail)
+- [ ]  [https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/amazon-lightsail-understanding-bucket-permissions](https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/amazon-lightsail-understanding-bucket-permissions)
+- [ ]  [https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/elastic-block-storage-and-ssd-disks-in-amazon-lightsail](https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/elastic-block-storage-and-ssd-disks-in-amazon-lightsail)
+- [ ]  [https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/amazon-lightsail-databases](https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/amazon-lightsail-databases)
 
--   
+
