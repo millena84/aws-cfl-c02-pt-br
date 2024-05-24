@@ -31,7 +31,11 @@ Ele pode ser usado através:
 E além da implantação, pode ser usado para:  
 - **Gerenciamento de aplicações**: usando conceitos como ambientes, versões, configurações, políticas de implantação e grupos de autoescalação.  
 - **Segurança de aplicações**: usando conceitos como grupos de segurança, perfis de instância do IAM, certificados SSL/TLS e VPCs.  
-  
+
+### Observações relevantes:
+- O Elastic Beanstalk usa o auto-scaling na escalabilidade das aplicações, porém não é necessário configurar no Auto-scaling. Você pode especificar as características de dimensionamento desejadas, como a capacidade mínima e máxima de instâncias, e o Elastic Beanstalk gerenciará o dimensionamento automático com base nesses parâmetros.  O monitoramento da carga da sua aplicação é feito pelo serviço e ele mesmo ajusta o número de instâncias conforme necessário, tudo de forma automática e transparente.
+
+
 ## Possíveis integrações com outros serviços  
   
 - Amazon S3: Pode ser usado para armazenar arquivos estáticos, backups de dados, e logs de aplicações.  
