@@ -2,6 +2,24 @@
 
 Em construção
 
+## Classificação dos serviços:
+
+<details>
+  <summary><b>Computação</b></summary>
+  <ol>
+    <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Batch.md">Amazon Batch</a></li>
+    <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/Amazon-EC2.md">Amazon EC2*</a></li>
+    <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Elasic-Beanstalk.md">AWS Elastic Beanstalk</a></li>
+    <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/Amazon-Lightsail.md">Amazon Lightsail</a></li>
+    <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Local-Zones.md">Zonas Locais da AWS*</a></li>
+    <li>AWs Outposts</li>
+    <li>AWs Wavelenght</li>
+  </ol>
+  Links com asterisco ainda estão em construção
+</details>
+
+--- 
+
 
 # Agrupamento do conteúdo:
 <details>
@@ -15,7 +33,7 @@ graph LR
 001 --> 0004(Amazon Lightsail)
 001 --> 0005(Zonas Locais da AWS)
 001 --> 0006(AWS Outposts)
-001 --> 0007(AWS Wavelength)
+001 --> 0007(AWS Wavelenght)
 
 01 --> 002(Contêineres)
 002 --> 0008(Amazon ECS)
