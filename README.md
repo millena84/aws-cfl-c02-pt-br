@@ -2,26 +2,66 @@
 
 Em construção
 
-## Classificação dos serviços:
+## Serviços - versão extendida:
 
-<details>
-  <summary><b>Computação</b></summary>
-  <ol>
-    <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Batch.md">Amazon Batch</a></li>
-    <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/Amazon-EC2.md">Amazon EC2*</a></li>
-    <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Elasic-Beanstalk.md">AWS Elastic Beanstalk</a></li>
-    <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/Amazon-Lightsail.md">Amazon Lightsail</a></li>
-    <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Local-Zones.md">Zonas Locais da AWS*</a></li>
-    <li>AWs Outposts</li>
-    <li>AWs Wavelenght</li>
-  </ol>
-  Links com asterisco ainda estão em construção
-</details>
-
+### Diversos - computação:
+  <details>
+      <summary><b>Computação</b></summary>
+        <ol>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Batch.md">Amazon Batch</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/Amazon-EC2.md">Amazon EC2*</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Elasic-Beanstalk.md">AWS Elastic Beanstalk</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/Amazon-Lightsail.md">Amazon Lightsail</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Local-Zones.md">Zonas Locais da AWS*</a></li>
+          <li>AWs Outposts</li>
+          <li>AWs Wavelenght</li>
+        </ol>
+  </details>
+  <details>
+      <summary><b>Sem servidor</b></summary>
+        <ol>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/sem-servidor/AWS-lambda.md">AWS Lambda*</a></li>
+          <li>AWs Fargate</li>
+        </ol>
+  </details>
+  <details>
+      <summary><b>Contêineres</b></summary>
+        <ol>
+          <li>AWS ECS</li>
+          <li>AWS EKS</li>
+          <li>AWS ECR</li>
+        </ol>
+  </details>
+    <details>
+      <summary><b>Computação de usuário final</b></summary>
+        <ol>
+          <li>Amazon AppStream 2.0</li>
+          <li>Amazon Workspaces</li>
+          <li>Amazon Workspaces Web</li>
+        </ol>
+  </details>
+  <details>
+      <summary><b>Web e dispositivos móveis</b></summary>
+        <ol>
+          <li>AWs Device Farm</li>
+          <li>AWs Amplify</li>
+          <li>AWS App Sync</li>
+        </ol>
+  </details>
+  <details>
+      <summary><b>Internet das coisas</b></summary>
+        <ol>
+          <li>IoT Core</li>
+          <li>IoT greengrass</li>
+        </ol>
+  </details>
+  
 --- 
 
 
-# Agrupamento do conteúdo:
+# Visão do conteúdo - Mapa mental:
+Contém somente os nomes dos serviços
+
 <details>
 <summary>Diversos computação:</summary>
   
@@ -60,6 +100,8 @@ graph LR
 
 ```
 </details>
+
+---
 
 
 # Conteúdo extra
