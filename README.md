@@ -3,7 +3,7 @@
 Em construção
 
 ## Guia de certificação:
-[Guia do exame AWS Certified Cloud Practitioner (CFL-C02)](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
+[Guia do exame AWS Certified Cloud Practitioner (CFL-C02)](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf?newWindow=true)
 
 
 ## Serviços - versão extendida:
@@ -118,6 +118,12 @@ graph LR
 
 
 # Não cai na CFL-C02, porém, convém conhecer para as próximas:
+  <details>
+      <summary><b>Banco de dados</b></summary>
+        <ol>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-dados/1-banco-de-dados/Amazon-ElastiCache(nao-cai).md">Amazon ElastiCache</a></li>
+        </ol>
+  </details>
   <details>
       <summary><b>Integração de aplicativos</b></summary>
         <ol>
