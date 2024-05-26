@@ -3,7 +3,7 @@
 Em construção
 
 ## Guia de certificação:
-[Guia do exame AWS Certified Cloud Practitioner (CFL-C02)](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf?newWindow=true)
+[Guia do exame AWS Certified Cloud Practitioner (CFL-C02)](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 
 
 ## Serviços - versão extendida:
@@ -11,11 +11,11 @@ Em construção
   <details>
       <summary><b>Computação</b></summary>
         <ol>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-computacao/1-computacao/AWS-Batch.md" target="_blank">Amazon Batch</a></li>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/Amazon-EC2.md?newWindow=true">Amazon EC2*</a></li>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Elasic-Beanstalk.md?newWindow=true">AWS Elastic Beanstalk</a></li>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/Amazon-Lightsail.md?newWindow=true">Amazon Lightsail</a></li>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Local-Zones.md?newWindow=true">Zonas Locais da AWS*</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-computacao/1-computacao/AWS-Batch.md">Amazon Batch</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-computacao/1-computacao/Amazon-EC2.md">Amazon EC2*</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-computacao/1-computacao/AWS-Elasic-Beanstalk.md">AWS Elastic Beanstalk</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-computacao/1-computacao/Amazon-Lightsail.md">Amazon Lightsail</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-computacao/1-computacao/AWS-Local-Zones.md">Zonas Locais da AWS*</a></li>
           <li>AWs Outposts</li>
           <li>AWs Wavelenght</li>
         </ol>
@@ -23,7 +23,7 @@ Em construção
   <details>
       <summary><b>Sem servidor</b></summary>
         <ol>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/sem-servidor/AWS-lambda.md?newWindow=true">AWS Lambda*</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-computacao/3-sem-servidor/AWS-lambda.md">AWS Lambda*</a></li>
           <li>AWs Fargate</li>
         </ol>
   </details>
@@ -108,31 +108,35 @@ graph LR
 
 
 # Conteúdo extra
-- [Mapa mental - CFL-C02](https://www.mindmeister.com/app/map/3008228986?t=NOu7B2okNO?newWindow=true)
-## Diversos - Computação
+- [Mapa mental - CFL-C02](https://www.mindmeister.com/app/map/3008228986?t=NOu7B2okNO)
+
+## Informações do entorno
+- [Um pouco sobre Keys pairs](https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/extras-artigos/key-pairs-ssh.md)
+
+## Insights e etc
 ### Computação
-- [ECS, Docker, EKS e Kubernetes "em um tweet" e com analogia](https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/extras/ecs-docker-eks-k8s-em-1-tweet.md?newWindow=true)
+- [Comparação EC2 x Lightsail](https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/extras-artigos/comparacao-ec2-lightsail-em-um-tweet.md)
+- [ECS, Docker, EKS e Kubernetes "em um tweet" e com analogia](https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/extras-artigos/ecs-docker-eks-k8s-em-1-tweet.md)
 
 
 --- 
-
 
 # Não cai na CFL-C02, porém, convém conhecer para as próximas:
   <details>
       <summary><b>Banco de dados</b></summary>
         <ol>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-dados/1-banco-de-dados/Amazon-ElastiCache(nao-cai).md?newWindow=true">Amazon ElastiCache</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-dados/1-banco-de-dados/Amazon-ElastiCache(nao-cai).md">Amazon ElastiCache</a></li>
         </ol>
   </details>
   <details>
       <summary><b>Integração de aplicativos</b></summary>
         <ol>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-dados/4-integracao-aplicativos/Amazon-MQ(nao-cai).md?newWindow=true">Amazon MQ</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-dados/4-integracao-aplicativos/Amazon-MQ(nao-cai).md">Amazon MQ</a></li>
         </ol>
   </details>
   <details>
       <summary><b>Transferência de dados</b></summary>
         <ol>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-armazenamento-e-transferencia/2-migracao-e-transferencia/AWS-DataSync(nao-cai).md?newWindow=true">AWS DataSync</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-armazenamento-e-transferencia/2-migracao-e-transferencia/AWS-DataSync(nao-cai).md">AWS DataSync</a></li>
         </ol>
   </details>
