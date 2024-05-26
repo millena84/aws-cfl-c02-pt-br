@@ -131,7 +131,7 @@ graph LR
   <details>
       <summary><b>Analytics</b></summary>
         <ol>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-dados/3-analytics/Amazon-CloudSearchnao-cai).md">Amazon CloudSearch</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-dados/3-analytics/Amazon-CloudSearch(nao-cai).md">Amazon CloudSearch</a></li>
         </ol>
   </details>
   <details>
