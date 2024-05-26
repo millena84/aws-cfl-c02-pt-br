@@ -13,16 +13,22 @@ Significa que seu gerenciamento ocorre pela console do Amazon RDS, ou pelo AWS C
 -   Compatível com MySQL e PostgreSQL, sendo:
     -   5 x mais rápido que o MySQL
     -   3 x mais rápido que o PostgreSQL
--   1/10 do custo
+-   1/10 do custo comparado com concorrentes
+-  Otimizado para desempenho e alta disponibilidade
 -   Alta disponibilidade
     -   Também tem  **read-replicas**  (até 15 de leitura)
     -   Backup contínuo no S3
     -   Sistema de armazenamento distribuído – escala até 128 TB por instância
     -   **Replicação entre 3 AZs**
-    -   **Global Database**: um único banco de dados Aurora por abranger várias regiões da AWS
-        -   Ele replica seus dados sem impacto no desempenho do banco de dados, permite leituras locais rápidas com baixa latência em cada região e fornece recuperação de desastres de interrupções em toda a região.
-    -   Pode ser usado no modelo instância ou serveless
-    -   Provisionamento automático
+
+### Global Database
+Um único banco de dados Aurora por abranger várias regiões da AWS
+-   Ele replica seus dados sem impacto no desempenho do banco de dados
+-   Permite leituras locais rápidas com baixa latência em cada região 
+    -    Regiões secundárias podem ser usadas para cargas de trabalho de leitura intensa sem impactar o desempenho da região primária
+-   Fornece recuperação de desastres de interrupções em toda a região
+-   Pode ser usado no modelo instância ou serveless
+-   Provisionamento automático
 
 ### Gerenciamento do Aurora através do RDS
 1.  **Provisionamento de Instâncias**: criação e gerenciamento das instâncias de banco de dados Aurora através do console do Amazon RDS. Durante a criação, você escolhe o tipo de banco de dados (Aurora MySQL ou Aurora PostgreSQL) e configura opções como tipo de instância, tamanho de armazenamento, e configurações de rede.
@@ -38,6 +44,8 @@ Significa que seu gerenciamento ocorre pela console do Amazon RDS, ou pelo AWS C
 
 > NÃO É POSSÍVEL USAR O AMAZON AURORA SEM USAR O AMAZON RDS
 
+> Importante:  existem tipos de configuração em que o controle granular no Amazon RDS é maior do que no Amazon Aurora e vice-versa, porém, não é o foco dessa certificação
+
 ### Bancos suportados
 -   PostgreSQL
 -   MySQL
@@ -45,13 +53,16 @@ Suportados na questão compatibilidade. Uma vez migrado para o Aurora, o banco p
 
 
 ## Possíveis integrações com outros serviços  
+- **Amazon RDS**: integração por padrão, para uso da console do RDS para configurar o Aurora
 - **AWS Lambda**: para responder a eventos no Amazon RDS, como alterações nos dados do banco de dados
 	- Isso permite a execução de lógica personalizada em resposta a eventos no banco de dados >> Pilar Excelência operacional do WAF
 
 
 ## Caso de uso  
--   Suporte a aplicações SaaS
--   Aplicações distribuídas globalmente
+Aplicações que exigem alto desempenho e disponibilidade, escalabilidade e durabilidade
+Ou ainda: 
+-   Aplicações de SaaS (Software como Serviço) de massiva utilização: Com recursos de isolamento e segurança, suporte para escalabilidade horizontal com replicas de leitura, alta disponibilidade e recuperação automática, o Aurora pode sser uma excelente opção.
+-   Aplicações distribuídas globalmente: jogos digitais, e-commerce global usando o Aurora Global Database
 -   Tecnologia  **serverless**
 
 > Como escolho entre Aurora e Amazon RDS?
@@ -76,6 +87,7 @@ Além disso:
     -   Restauração
     -   Exportação de snapshot
     -   Transferência de dados
+
 
 
 ## Fontes de consulta
