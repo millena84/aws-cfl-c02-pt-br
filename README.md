@@ -2,8 +2,11 @@
 
 Em construção
 
-## Serviços - versão extendida:
+## Guia de certificação:
+[Guia do exame AWS Certified Cloud Practitioner (CFL-C02)](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 
+
+## Serviços - versão extendida:
 ### Diversos - computação:
   <details>
       <summary><b>Computação</b></summary>
@@ -112,6 +115,7 @@ graph LR
 
 
 --- 
+
 
 # Não cai na CFL-C02, porém, convém conhecer para as próximas:
   <details>
