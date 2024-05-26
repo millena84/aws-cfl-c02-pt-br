@@ -129,6 +129,13 @@ graph LR
         </ol>
   </details>
   <details>
+      <summary><b>Analytics</b></summary>
+        <ol>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-dados/3-analytics/Amazon-CloudSearchnao-cai).md">Amazon CloudSearch</a></li>
+        </ol>
+  </details>
+  <details>
+  <details>
       <summary><b>Integração de aplicativos</b></summary>
         <ol>
           <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-dados/4-integracao-aplicativos/Amazon-MQ(nao-cai).md">Amazon MQ</a></li>
