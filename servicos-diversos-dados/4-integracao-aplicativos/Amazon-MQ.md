@@ -1,7 +1,7 @@
 
 # Amazon MQ![Ícone Amazon MQ](https://icon.icepanel.io/AWS/svg/App-Integration/MQ.svg)
 
-![Não importante para essa certificação](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKT8_cCbE2oCdZZ7LS3yEtqwGWZwAU54uL2E8n3b6aSLljHcRBgb3OruIdKZ3aHriZeNTtIxQnfHKgoawGJdZI1yquZrnjlaSeRG7rTxs6MtE2xb5G7KfG66QE28ai2ZOG4EvirUJ7Zx_ktVeoXxawMJeWgq8dvU5aZLzeANEsiMKNKg/s1600/ALERTA-NAO-IMPO-PARA-CFLC02.png =150x140)
+![Não importante para essa certificação](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKT8_cCbE2oCdZZ7LS3yEtqwGWZwAU54uL2E8n3b6aSLljHcRBgb3OruIdKZ3aHriZeNTtIxQnfHKgoawGJdZI1yquZrnjlaSeRG7rTxs6MtE2xb5G7KfG66QE28ai2ZOG4EvirUJ7Zx_ktVeoXxawMJeWgq8dvU5aZLzeANEsiMKNKg/s1600/ALERTA-NAO-IMPO-PARA-CFLC02.png  =150x135)
  
 ## Funcionalidade  
 É um serviço gerenciado pela AWS de agente de mensagens para o **Apache ActiveMQ e RabbitMQ** que facilita a configuração e a operação de agentes de mensagens na AWS.
