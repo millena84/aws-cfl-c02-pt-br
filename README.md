@@ -11,11 +11,11 @@ Em construção
   <details>
       <summary><b>Computação</b></summary>
         <ol>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Batch.md">Amazon Batch</a></li>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/Amazon-EC2.md">Amazon EC2*</a></li>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Elasic-Beanstalk.md">AWS Elastic Beanstalk</a></li>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/Amazon-Lightsail.md">Amazon Lightsail</a></li>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Local-Zones.md">Zonas Locais da AWS*</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Batch.md?newWindow=true">Amazon Batch</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/Amazon-EC2.md?newWindow=true">Amazon EC2*</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Elasic-Beanstalk.md?newWindow=true">AWS Elastic Beanstalk</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/Amazon-Lightsail.md?newWindow=true">Amazon Lightsail</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Local-Zones.md?newWindow=true">Zonas Locais da AWS*</a></li>
           <li>AWs Outposts</li>
           <li>AWs Wavelenght</li>
         </ol>
@@ -23,7 +23,7 @@ Em construção
   <details>
       <summary><b>Sem servidor</b></summary>
         <ol>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/sem-servidor/AWS-lambda.md">AWS Lambda*</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/sem-servidor/AWS-lambda.md?newWindow=true">AWS Lambda*</a></li>
           <li>AWs Fargate</li>
         </ol>
   </details>
@@ -108,10 +108,10 @@ graph LR
 
 
 # Conteúdo extra
-- [Mapa mental - CFL-C02](https://www.mindmeister.com/app/map/3008228986?t=NOu7B2okNO)
+- [Mapa mental - CFL-C02](https://www.mindmeister.com/app/map/3008228986?t=NOu7B2okNO?newWindow=true)
 ## Diversos - Computação
 ### Computação
-- [ECS, Docker, EKS e Kubernetes "em um tweet" e com analogia](https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/extras/ecs-docker-eks-k8s-em-1-tweet.md)
+- [ECS, Docker, EKS e Kubernetes "em um tweet" e com analogia](https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/extras/ecs-docker-eks-k8s-em-1-tweet.md?newWindow=true)
 
 
 --- 
@@ -121,18 +121,18 @@ graph LR
   <details>
       <summary><b>Banco de dados</b></summary>
         <ol>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-dados/1-banco-de-dados/Amazon-ElastiCache(nao-cai).md">Amazon ElastiCache</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-dados/1-banco-de-dados/Amazon-ElastiCache(nao-cai).md?newWindow=true">Amazon ElastiCache</a></li>
         </ol>
   </details>
   <details>
       <summary><b>Integração de aplicativos</b></summary>
         <ol>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-dados/4-integracao-aplicativos/Amazon-MQ(nao-cai).md">Amazon MQ</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-dados/4-integracao-aplicativos/Amazon-MQ(nao-cai).md?newWindow=true">Amazon MQ</a></li>
         </ol>
   </details>
   <details>
       <summary><b>Transferência de dados</b></summary>
         <ol>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-armazenamento-e-transferencia/2-migracao-e-transferencia/AWS-DataSync(nao-cai).md">AWS DataSync</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-armazenamento-e-transferencia/2-migracao-e-transferencia/AWS-DataSync(nao-cai).md?newWindow=true">AWS DataSync</a></li>
         </ol>
   </details>
