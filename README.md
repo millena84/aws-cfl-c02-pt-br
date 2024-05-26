@@ -109,3 +109,20 @@ graph LR
 ## Diversos - Computação
 ### Computação
 - [ECS, Docker, EKS e Kubernetes "em um tweet" e com analogia](https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/extras/ecs-docker-eks-k8s-em-1-tweet.md)
+
+
+--- 
+
+# Não cai na CFL-C02, porém, convém conhecer para as próximas:
+  <details>
+      <summary><b>Integração de aplicativos</b></summary>
+        <ol>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-dados/4-integracao-aplicativos/Amazon-MQ(nao-cai).md">Amazon MQ</a></li>
+        </ol>
+  </details>
+  <details>
+      <summary><b>Transferência de dados</b></summary>
+        <ol>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-armazenamento-e-transferencia/2-migracao-e-transferencia/AWS-DataSync(nao-cai).md">AWS DataSync</a></li>
+        </ol>
+  </details>
