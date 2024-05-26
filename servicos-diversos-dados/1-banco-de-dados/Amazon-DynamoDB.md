@@ -1,4 +1,4 @@
-# Amazon Dynamo![Ícone Amazon Dynamo](https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg)
+# Amazon DynamoDB![Ícone Amazon DynamoDB](https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg)
  
 ## Funcionalidade  
 Banco da AWS NoSQL totalmente gerenciado pela AWS de **estrutura chave-valor**, serverless com alto desempenho em qualquer escala.
