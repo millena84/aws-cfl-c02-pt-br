@@ -11,7 +11,7 @@ Em construção
   <details>
       <summary><b>Computação</b></summary>
         <ol>
-          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Batch.md?newWindow=true">Amazon Batch</a></li>
+          <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/servicos-diversos-computacao/1-computacao/AWS-Batch.md" target="_blank">Amazon Batch</a></li>
           <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/Amazon-EC2.md?newWindow=true">Amazon EC2*</a></li>
           <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/AWS-Elasic-Beanstalk.md?newWindow=true">AWS Elastic Beanstalk</a></li>
           <li><a href="https://github.com/millena84/aws-cfl-c02-pt-br/blob/main/diversos-computacao/computacao/Amazon-Lightsail.md?newWindow=true">Amazon Lightsail</a></li>
